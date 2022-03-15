@@ -1,0 +1,3 @@
+[{"ID":0,"Login":"mylogin","Password":"mypassword","isClient":true},
+{"ID":1,"Login":"Stix111","Password":"12345","isClient":true},
+{"ID":2,"Login":"IAdmin","Password":"qwerty123","isClient":false}]
